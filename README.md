@@ -1,7 +1,4 @@
-# nimdatest2
-My first Test
-## nimdatest2
-### nimdatest2
+# nimdastudy
+1주차 2025. 05. 08 ~ 2025. 05. 18<br>
 ---
-테스트1 <br>
-테스트2
+앵커로 경로 써서 올리기 좌라락 쓰기
