@@ -18,4 +18,6 @@
 * Stateful Widget은 상태를 가지고 있으며, 상태가 변경될 때마다 UI가 업데이트된다.<br>
 -> EX) 사용자의 입력에 따라 동적으로 변경되는 버튼이나 폼 필드 등에 사용된다.
 
+### Stateless Widget과 Stateful Widget의 차이점은 무엇일까?
+* 차이점 --> 상태가 변하지 않는다면  **Stateless Widget**, 상태가 변한다면 **Stateful Widget**
 
