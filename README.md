@@ -21,7 +21,7 @@
 ### Stateless Widget과 Stateful Widget의 차이점은 무엇일까?
 * 차이점 --> 상태가 변하지 않는다면  **Stateless Widget**, 상태가 변한다면 **Stateful Widget** <br>
 
-+ [참고한 글][https://devocean.sk.com/blog/techBoardDetail.do?ID=165056#none]
++ 참고한 글 : <https://devocean.sk.com/blog/techBoardDetail.do?ID=165056#none>
 
 
 
