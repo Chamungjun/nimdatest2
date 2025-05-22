@@ -19,5 +19,9 @@
 -> EX) 사용자의 입력에 따라 동적으로 변경되는 버튼이나 폼 필드 등에 사용된다.
 
 ### Stateless Widget과 Stateful Widget의 차이점은 무엇일까?
-* 차이점 --> 상태가 변하지 않는다면  **Stateless Widget**, 상태가 변한다면 **Stateful Widget**
+* 차이점 --> 상태가 변하지 않는다면  **Stateless Widget**, 상태가 변한다면 **Stateful Widget** <br>
+
++ [참고한 글][https://devocean.sk.com/blog/techBoardDetail.do?ID=165056#none]
+
+
 
