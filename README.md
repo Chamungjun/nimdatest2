@@ -10,7 +10,7 @@
 
 ## 위젯의 종류 -> Stateless Widget과 Stateful Widget의 차이점
 
-#### Stateless Widget은 무엇일까?
+### Stateless Widget은 무엇일까?
 * Stateless Widget은 한 번 그려진 후에는 변경되지 않는 위젯을 말한다.<br>
 -> EX) 앱의 로고 이미지나 정적인 텍스트를 표시하는 데 사용된다.
 
@@ -21,7 +21,8 @@
 ### Stateless Widget과 Stateful Widget의 차이점은 무엇일까?
 * 차이점 --> 상태가 변하지 않는다면  **Stateless Widget**, 상태가 변한다면 **Stateful Widget** <br>
 
-+ 참고한 글 : <https://devocean.sk.com/blog/techBoardDetail.do?ID=165056#none>
+* 참고한 글 : <https://devocean.sk.com/blog/techBoardDetail.do?ID=165056#none> *
+
 
 
 
